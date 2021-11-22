@@ -10,3 +10,4 @@ Repository for practice in Software system Development 2021
 * please continue below:
 * takumi-fu
 * hiroto-oshimi
+* yokoro
