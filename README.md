@@ -1,6 +1,8 @@
 # ssd2021
 Repository for practice in Software system Development 2021
 ## Add your original line below (notice: do not expose your private information because this is a public repository)
+
+=======
 * iida
 * Shuhei-m
 * hsntmk
@@ -18,3 +20,5 @@ Repository for practice in Software system Development 2021
 * barbara-k
 * u
 * takanori-j
+* tomoyamizukuro
+* daigo-im
