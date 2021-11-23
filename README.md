@@ -13,3 +13,4 @@ Repository for practice in Software system Development 2021
 * yokoro
 * hisashi-y
 * sergiodl
+* barbara-k
