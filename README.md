@@ -22,3 +22,4 @@ Repository for practice in Software system Development 2021
 * takanori-j
 * tomoyamizukuro
 * daigo-im
+* Ta-Ko
