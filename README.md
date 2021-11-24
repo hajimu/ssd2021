@@ -25,3 +25,4 @@ Repository for practice in Software system Development 2021
 * tomoyamizukuro
 * daigo-im
 * Ta-Ko
+* ShoheiHISADA
