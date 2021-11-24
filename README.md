@@ -26,3 +26,4 @@ Repository for practice in Software system Development 2021
 * daigo-im
 * Ta-Ko
 * ShoheiHISADA
+* dongming-w
