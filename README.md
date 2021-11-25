@@ -39,3 +39,4 @@ Repository for practice in Software system Development 2021
 * hiroyuki-otomo
 * hiroki-is
 * masaki-kawanaka
+* kentaro-ueda
