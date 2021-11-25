@@ -27,4 +27,5 @@ Repository for practice in Software system Development 2021
 * Ta-Ko
 * ShoheiHISADA
 * dongming-w
+* takuma-s
 * yuhi-ma
