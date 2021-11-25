@@ -41,5 +41,6 @@ Repository for practice in Software system Development 2021
 * masaki-kawanaka
 * kentaro-ueda
 * edgar-anarossi
+* yuta-kim
 * ryota-saz
 * shuhei-kayawari
