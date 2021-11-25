@@ -29,6 +29,7 @@ Repository for practice in Software system Development 2021
 * dongming-w
 * tatsuya-yamamura
 * takuma-s
+* chige
 * yuhi-ma
 * nishitani
 * zhi-qu
