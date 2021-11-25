@@ -34,3 +34,4 @@ Repository for practice in Software system Development 2021
 * yuu55
 * yuya-isaka
 * itaru-ot
+* hiroyuki-otomo
