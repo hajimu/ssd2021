@@ -30,6 +30,7 @@ Repository for practice in Software system Development 2021
 * tatsuya-yamamura
 * takuma-s
 * yuhi-ma
+* nishitani
 * zhi-qu
 * yuu55
 * yuya-isaka
