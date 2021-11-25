@@ -28,3 +28,5 @@ Repository for practice in Software system Development 2021
 * ShoheiHISADA
 * dongming-w
 * tatsuya-yamamura
+* takuma-s
+* yuhi-ma
