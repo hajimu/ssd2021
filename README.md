@@ -48,6 +48,7 @@ Repository for practice in Software system Development 2021
 * kyoya-murakami
 * TakuyaSasaki
 * ryosuke-miyawaki
+* yuka-okuda
 * pgDora56
 * masashi-yo
 * kento-su
