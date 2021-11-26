@@ -48,3 +48,4 @@ Repository for practice in Software system Development 2021
 * kyoya-murakami
 * TakuyaSasaki
 * ryosuke-miyawaki
+* takumi-g
