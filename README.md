@@ -53,4 +53,5 @@ Repository for practice in Software system Development 2021
 * pgDora56
 * masashi-yo
 * kento-su
+* Kokimiyazaki
 * tomoaki-h
