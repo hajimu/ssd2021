@@ -18,6 +18,7 @@ Repository for practice in Software system Development 2021
 * hovhannisyan-ani
 * sergiodl
 * hidenori-k
+*Ito-sho
 * barbara-k
 * u
 * yusuke-ide
