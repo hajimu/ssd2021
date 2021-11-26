@@ -56,5 +56,6 @@ Repository for practice in Software system Development 2021
 * Kokimiyazaki
 * tomoaki-h
 * naoaki-s
+* shota-matsuo
 * TaichiKubota
 * akihito-ihara
