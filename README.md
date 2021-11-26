@@ -49,3 +49,7 @@ Repository for practice in Software system Development 2021
 * TakuyaSasaki
 * ryosuke-miyawaki
 * takumi-g
+* yuka-okuda
+* pgDora56
+* masashi-yo
+* kento-su
