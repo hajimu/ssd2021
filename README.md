@@ -60,4 +60,5 @@ Repository for practice in Software system Development 2021
 * shota-matsuo
 * TaichiKubota
 * akihito-ihara
+* makoto-u
 * Takara-Fujisawa
