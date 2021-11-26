@@ -55,3 +55,4 @@ Repository for practice in Software system Development 2021
 * kento-su
 * Kokimiyazaki
 * tomoaki-h
+* naoaki-s
