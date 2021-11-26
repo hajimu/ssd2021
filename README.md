@@ -63,6 +63,5 @@ Repository for practice in Software system Development 2021
 * akihito-ihara
 * makoto-u
 *タカラ藤沢
-。
 *タカラ藤
 *daiki-may
