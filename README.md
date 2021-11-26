@@ -45,6 +45,9 @@ Repository for practice in Software system Development 2021
 * ryota-saz
 * shuhei-kayawari
 * satokibi44
+* kyoya-murakami
 * TakuyaSasaki
 * ryosuke-miyawaki
 * pgDora56
+* masashi-yo
+* kento-su
