@@ -20,6 +20,7 @@ Repository for practice in Software system Development 2021
 * hidenori-k
 * barbara-k
 * u
+* daisuke-f
 * yusuke-ide
 * takanori-j
 * tomoyamizukuro
@@ -60,3 +61,4 @@ Repository for practice in Software system Development 2021
 * TaichiKubota
 * akihito-ihara
 * makoto-u
+* Takara-Fujisawa
