@@ -67,3 +67,4 @@ Repository for practice in Software system Development 2021
 *タカラ藤沢
 *タカラ藤
 *daiki-may
+*Kotaro James Nishimura
