@@ -69,3 +69,4 @@ Repository for practice in Software system Development 2021
 *daiki-may
 *Kotaro James Nishimura
 *maho-t
+*zhang
